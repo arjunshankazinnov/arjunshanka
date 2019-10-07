@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Testing 5
 Testing 6
+=======
+Testing 5222222
+>>>>>>> Updates to file again
